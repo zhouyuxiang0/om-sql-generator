@@ -1,0 +1,8 @@
+{
+  "name": "sql-parser",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:zhouyuxiang0/sql-parser.git",
+  "author": "1521350289@qq.com <1521350289@qq.com>",
+  "license": "MIT"
+}
